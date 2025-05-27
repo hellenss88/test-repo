@@ -1,4 +1,7 @@
 print('''
+Cartas de Amor são Ridículas
+por Fernando Pessoa
+
 Todas as cartas de amor são
 Ridículas.
 Não seriam cartas de amor se não fossem
